@@ -1,7 +1,7 @@
 Overview
 --------
 
-"HTTPS (HTTP Secure) is an extension of the Hypertext Transfer Protocol (HTTP) for secure communication over a computer network, and is widely used on the Internet. In HTTPS, the communication protocol is encrypted by Transport Layer Security (TLS), or formerly, its predecessor, Secure Sockets Layer (SSL). The protocol is therefore also often referred to as HTTP over TLS, or HTTP over SSL." -- [Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
+'HTTPS(HTTP Secure)는 컴퓨터 네트워크를 통한 보안 통신을 위한 HTTP(Hypertext Transfer Protocol)의 확장으로 인터넷에서 널리 사용됩니다. HTTPS에서는 통신 프로토콜이 TLS(Transport Layer Security)로 암호화되거나 이전에는 그 전신인 SSL(Secure Sockets Layer)입니다. 따라서 이 프로토콜은 종종 TLS를 통한 HTTP 또는 SSL을 통한 HTTP라고도 합니다.' -- [Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
 
 Example
 -------
