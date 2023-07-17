@@ -4,7 +4,7 @@ Restbed [![Unix Build Status](https://travis-ci.org/Corvusoft/restbed.svg?branch
 
 ---
 
-Restbed is a comprehensive and consistent programming model for building applications that require seamless and secure communication over HTTP, with the ability to model a range of business processes, designed to target mobile, tablet, desktop and embedded production environments.
+Restbed는 모바일, 태블릿, 데스크톱 및 임베디드 프로덕션 환경을 대상으로 설계된 다양한 비즈니스 프로세스를 모델링할 수 있는 기능과 함께 HTTP를 통한 원활하고 안전한 통신이 필요한 애플리케이션을 구축하기 위한 포괄적이고 일관된 프로그래밍 모델입니다.
 
 > It's akin to embedding NGINX into your companies own product line. -- Solutions Architect, Bellrock Technology
 
